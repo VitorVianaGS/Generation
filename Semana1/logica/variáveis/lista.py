@@ -18,3 +18,18 @@ print(lista)
 
 
 # Fazer lista de compras:
+
+compras = [
+   "Leite",
+   "Ovos",
+   "Açucar",
+   "Pernil",
+   "Sucrilhos",
+   "Monster",
+   "Nugget",
+   "Batata Frita",
+   "Pão de queijo",
+   "Agua com gás",
+   "Cochão Mole",
+   "Coração"
+]
